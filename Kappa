@@ -1,0 +1,10 @@
+public class Kappa 
+{
+  public static Kappa main (Kappa[]Kappa)
+  {
+    if(Kappa == Kappa)
+    {
+      System.out.println("Kappa");
+    }
+  }
+}
